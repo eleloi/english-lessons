@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "I'm Eloi, a software developer from Barcelona"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -7,17 +7,10 @@ draft: false
 what_i_do:
   title: "What I Do"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
+    - title: "Web Development"
+      description: "I create dynamic and interactive website solutions."
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Welcome to my page! I'm a software developer hailing from the vibrant city of Barcelona. With a passion for creating engaging web experiences, I specialize in both front-end and back-end development. Through this platform, I aim to showcase my skills, share my knowledge, and connect with fellow coding enthusiasts.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+In addition to my software development expertise, I'm currently embarking on an exciting journey to learn the English language. As part of this learning process, I'll be providing English lessons right here on this page. Join me as I explore the realms of programming and language acquisition, and let's embark on this enriching adventure together!

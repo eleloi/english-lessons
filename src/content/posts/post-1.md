@@ -1,22 +1,32 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Daniel Amen - Change Your Brain, Change Your Life"
 description: "meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+date: 2023-07-02T13:00:00Z
+image: "/images/posts/Foods-To-Boost-Your-Memory.jpg"
+categories: []
+authors: ["Eloi"]
+tags: []
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+**Source**: [https://www.youtube.com/watch?v=MLKj1puoWCg](Daniel Amen TED Talk)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Give a brief summary
 
-## Creative Design
+In the TEDxOrangeCoast talk titled "Change Your Brain, Change Your Life," Daniel Amen, a renowned psychiatrist and brain health expert, explores the profound connection between the brain and our overall well-being. Amen emphasizes that our brains have the remarkable ability to change and adapt throughout our lives, challenging the belief that our brain health is predetermined or fixed.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Through his research and clinical experience, Amen highlights the impact of various factors, such as diet, exercise, sleep, and stress management, on brain health. He discusses how these lifestyle choices directly affect the structure and function of our brains, ultimately influencing our mental and emotional well-being.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Amen also introduces the concept of "brain envy," encouraging individuals to care for their brains just as they would care for any other vital organ. By adopting healthy habits and engaging in activities that promote brain fitness, he suggests that we can enhance our cognitive abilities, emotional resilience, and overall quality of life.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The talk serves as a reminder that we have the power to actively shape our brain health, and by doing so, we can transform our lives for the better.
+
+## What does Dr. Amen suggest is the best diet for brain health and prevention of dementia?
+
+## Does he defend vegetarians and vegans?
+
+## Do you agree with this?
+
+## Does your diet coincide with his guidelines?
+
+## What do you think will be the most popular diet in the future?
